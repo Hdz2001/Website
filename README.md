@@ -1,7 +1,7 @@
 # **My First Website**
 
 ## **Purpose**:
-* Use simple HTML concept to make my website introducing myself 
+* Use simple HTML concept to make a website introducing myself 
 
 ## **Plans**:
 * Will add more pictures and more works to it as time passes 
